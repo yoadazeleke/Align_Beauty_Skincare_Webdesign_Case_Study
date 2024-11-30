@@ -1,4 +1,4 @@
-# Align Beauty Skincare Webdesign Case Study
+# Align Beauty Skincare Case Study
 ![Project title Align Beauty](https://github.com/user-attachments/assets/eeaf9d1c-6349-4af4-816d-17747eb106e2)
 ![Project Overview Align Beauty](https://github.com/user-attachments/assets/bd202d21-85db-4713-abf1-a9d4c5bbd9d3)
 ![Design Proces Align Beauty](https://github.com/user-attachments/assets/0768769f-391c-4d73-a940-911baed94779)
